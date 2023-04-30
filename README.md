@@ -22,4 +22,4 @@ This was a group project carried out by a team of four. The tools used for this 
 [BUSINESS ANALYSIS FOR FOTH PAY.pptx](https://github.com/OpeyemiJagunmolu/FOTHPAY-BUSINESS-ANALYSIS/files/11069946/BUSINESS.ANALYSIS.FOR.FOTH.PAY.pptx)
 
 
-_Disclaimer: This company does not exist,it was formed for the purpose of carrying out this project._
+_Disclaimer: This company does not exist, it was formed for the purpose of carrying out this project._
